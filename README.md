@@ -1,7 +1,7 @@
 # FlexMiniRx
-A script to serve Unifi FlexMini Recovery firwmare
+A script to serve Unifi FlexMini Recovery firwmare.
 
-I know that others may find the instructiosn from Unifi daunting or convoluted so I made this to help simplify the process.
+I know that others may find the instructions from Unifi daunting or convoluted so I made this to help simplify the process.
 
 Requirements:
 Windows
@@ -21,6 +21,7 @@ https://www.python.org/downloads/
 
 
 Now lets work on that Flex-Mini:
+
 1. Unplug everything from the Flex-mini
 2. Plug your windows machine directly into the Flex-mini
 3. Ensure that the Flex power is off (no PoE, no USB)
