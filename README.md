@@ -7,7 +7,6 @@ I know that others may find the instructions from Unifi daunting or convoluted s
 Requirements:
 
 Windows
-
 Python 3.x
 
 How to use the script:
