@@ -1,5 +1,5 @@
 # FlexMiniRx
-A script to serve Unifi FlexMini Recovery firwmare.
+A script to serve Unifi FlexMini Recovery firwmare
 
 I know that others may find the instructions from Unifi daunting or convoluted so I made this to help simplify the process.
 
@@ -16,12 +16,12 @@ https://www.python.org/downloads/
 4. Select Verify Python Installation, if python is found continue, if not reinstall python
 5. Select "Create Webserver Directory"
 6. Select Download Firmware, download the latest version of the USW-Flex-Mini Firmware
+https://ui.com/download/software/usw-flex-mini
 7. Select your firmware file that you just downloaded using 6
 8. Start the Web Server
 
 
 Now lets work on that Flex-Mini:
-
 1. Unplug everything from the Flex-mini
 2. Plug your windows machine directly into the Flex-mini
 3. Ensure that the Flex power is off (no PoE, no USB)
