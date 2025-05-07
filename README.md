@@ -1,5 +1,6 @@
 # FlexMiniRx
 A script to serve Unifi FlexMini Recovery firwmare
+![flex](https://github.com/user-attachments/assets/689fc590-5c3a-43ca-a7e4-317e9e7a1b2c)
 
 I know that others may find the instructions from Unifi daunting or convoluted so I made this to help simplify the process.
 
