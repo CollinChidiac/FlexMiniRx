@@ -5,7 +5,9 @@ A script to serve Unifi FlexMini Recovery firwmare
 I know that others may find the instructions from Unifi daunting or convoluted so I made this to help simplify the process.
 
 Requirements:
+
 Windows
+
 Python 3.x
 
 How to use the script:
